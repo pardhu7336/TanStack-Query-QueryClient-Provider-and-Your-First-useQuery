@@ -30,4 +30,4 @@ Open http://localhost:5173 — you'll see the thread list (fetched the old way).
 ## Verify
 
 - DevTools → **Network** → one `threads` request per load.
-- ReactQueryDevtools panel shows a `['threads']` entry in the cache after first load.
+- ReactQueryDevtools panel shows a `['threads']` entry in the cache after first load...
